@@ -1,0 +1,141 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11 from the leagues' usual calendars (the NBA's and MLS's from Chicago's file).",
+ "blazers": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Play-In Tournament",
+    "start": "2027-04-13",
+    "end": "2027-04-16",
+    "tbd": true
+   },
+   {
+    "name": "NBA Playoffs, first round",
+    "start": "2027-04-17",
+    "end": "2027-05-02",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-05-03",
+    "end": "2027-05-16",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2027-05-17",
+    "end": "2027-05-30",
+    "tbd": true
+   },
+   {
+    "name": "NBA Finals",
+    "start": "2027-06-03",
+    "end": "2027-06-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "timbers": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2026-10-21",
+    "end": "2026-10-22",
+    "tbd": true
+   },
+   {
+    "name": "Round One, best of three",
+    "start": "2026-10-24",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "Conference Semifinals",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "tbd": true
+   },
+   {
+    "name": "MLS Cup",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "thorns": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "NWSL Playoffs, quarterfinals",
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2026-11-14",
+    "end": "2026-11-15",
+    "tbd": true
+   },
+   {
+    "name": "NWSL Championship",
+    "start": "2026-11-21",
+    "end": "2026-11-21",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "winterhawks": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "WHL Playoffs, first round",
+    "start": "2027-03-26",
+    "end": "2027-04-06",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-04-08",
+    "end": "2027-04-20",
+    "tbd": true
+   },
+   {
+    "name": "Conference Championship",
+    "start": "2027-04-22",
+    "end": "2027-05-04",
+    "tbd": true
+   },
+   {
+    "name": "WHL Championship",
+    "start": "2027-05-07",
+    "end": "2027-05-18",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "hops": {
+  "season": "2027",
+  "rounds": [
+   {
+    "name": "Northwest League Championship Series",
+    "start": "2027-09-14",
+    "end": "2027-09-19",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}

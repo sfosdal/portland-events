@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the city flag: a green field, white bars crossing to a blue four-pointed star rimmed in yellow -->
+  <rect x="3" y="3" width="26" height="26" rx="4" fill="#0f7a3b"/>
+  <rect x="3" y="14.6" width="26" height="2.8" fill="#ffffff"/>
+  <rect x="14.6" y="3" width="2.8" height="26" fill="#ffffff"/>
+  <path d="M16 5.5 C17.2 12 20 14.8 26.5 16 C20 17.2 17.2 20 16 26.5 C14.8 20 12 17.2 5.5 16 C12 14.8 14.8 12 16 5.5 Z" fill="#f2c230"/>
+  <path d="M16 8 C16.9 12.9 19.1 15.1 24 16 C19.1 16.9 16.9 19.1 16 24 C15.1 19.1 12.9 16.9 8 16 C12.9 15.1 15.1 12.9 16 8 Z" fill="#1f4e9e"/>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "blazers": "The Blazers' season runs late October to April at the Moda Center, 41 home dates, with the play-in and the playoffs beyond that.",
+  "timbers": "The Timbers' MLS season runs late February to October at Providence Park, 17 home matches, with the Cup playoffs through early December.",
+  "thorns": "The Thorns' NWSL season runs March to November at Providence Park, with the playoffs beyond that; the fixture list arrives over the winter.",
+  "winterhawks": "The Winterhawks' WHL season runs late September to March, home dates split between the Coliseum and the Moda Center, with the playoffs beyond that for the top eight in the Western Conference.",
+  "hops": "The Hops' Northwest League season runs early April to September at Hops Ballpark in Hillsboro, 66 home dates; the schedule above fills in once the league publishes it over the winter."
+}
