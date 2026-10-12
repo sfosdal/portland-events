@@ -1679,7 +1679,7 @@
     var played = games.filter(function (g) { return g.date < today && g.res && !g.pre; }); // the record and the last five: the season proper, not the preseason
     var upcoming = games.filter(function (g) { return g.date >= today; });
     var last = games[games.length - 1], next = upcoming[0] || null;
-    var daysOver = upcoming.length ? 0 : Math.round((parseDate(today) - parseDate(last.date)) / 864e5);
+    var daysOver = upcoming.length ? 0 : last ? Math.round((parseDate(today) - parseDate(last.date)) / 864e5) : 9999; // no games at all (a club whose feed is empty before its season): the off-season block
     var stage = !played.length && upcoming.length ? 'pre' : upcoming.length ? 'in' : daysOver <= 60 ? 'over' : 'off';
     var record = played.length ? (form.record && !/^0-0(-0)?$/.test(form.record) ? form.record : recordFrom(played)) : null;
     var standing = (form.standing || '').replace(/ Conference Division$/, ' Conference');
