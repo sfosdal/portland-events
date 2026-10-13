@@ -955,6 +955,30 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Portland Trail Blazers vs London Lions",
+   "date": "2026-10-12",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-london-lions-portland-oregon-10-12-2026/event/0F0064F4869059BB",
+   "type": "sports"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Bluey's Big Play - The Stage Show - All Ages, everyone needs a ticket",
+   "date": "2026-10-12",
+   "time": "18:00:00",
+   "url": "https://www.portland5.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Uau 2026 Fancon [Playlist #Your Youth] in Portland",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/uau-2026-fancon-playlist-your-star-theater-tickets/14324474",
+   "type": "concert"
   }
  ]
 }
