@@ -1011,6 +1011,45 @@
    "time": "20:00:00",
    "url": "https://www.wonderballroom.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-15-2026/event/0F0064C3E4313CBF"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Ashley Cooke w/ Aniston Pate",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Jeff Goldblum and the Mildred Snitzer Orchestra",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "HULDER with Antichrist Siege Machine & Lividus",
+   "date": "2026-10-15",
+   "time": "19:40:00",
+   "url": "https://www.ticketweb.com/event/hulder-with-antichrist-siege-machine-star-theater-tickets/14994043",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Tinlicker",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
   }
  ]
 }
