@@ -1050,6 +1050,53 @@
    "time": "20:00:00",
    "url": "https://www.crystalballroompdx.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-16-2026/event/0F0064C3E4373CCA"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Swan Lake",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "The Rocky Horror Picture Show with Patricia Quinn",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Julian Lage Quartet",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.portland5.com/newmark-theatre",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Hovvdy w/ Emma Ogier",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "TWIRL",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/twirl-star-theater-tickets/14376704",
+   "type": "concert"
   }
  ]
 }
