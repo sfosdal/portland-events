@@ -1097,6 +1097,90 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/twirl-star-theater-tickets/14376704",
    "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-17",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-17-2026/event/0F0064C3E43C3CDC"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Oregon Ballet Theatre Presents Swan Lake",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-17",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-17-2026/event/0F0064C3E4423CFA"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-17-2026/event/0F0064C3E4473D14"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Sukhishvili Georgian National Ballet",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.portland5.com/newmark-theatre",
+   "type": "arts"
+  },
+  {
+   "venue": "Providence Park",
+   "title": "Portland Timbers vs. Colorado Rapids",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.providenceparkpdx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Oregon Ballet Theatre Presents Swan Lake",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents The Princess Bride in Concert",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Mom Jeans",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "KIEFER with Shibo",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/kiefer-with-shibo-star-theater-tickets/14211674",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Finn Wolfhard",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "http://hawthornetheatre.com/"
   }
  ]
 }
