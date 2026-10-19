@@ -1181,6 +1181,66 @@
    "date": "2026-10-17",
    "time": "20:00:00",
    "url": "http://hawthornetheatre.com/"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-18",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-18-2026/event/0F0064C3E44C3D20"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents The Princess Bride in Concert",
+   "date": "2026-10-18",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Disney On Ice presents Jump In!",
+   "date": "2026-10-18",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-18-2026/event/0F0064C3E4513D28"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=SLOSS&linkID=pcpa&shopperContext=&caller=&cgc=",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Charles Wesley Godwin",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "ilani",
+   "title": "Brit Floyd: The Moon, The Wall and Beyond",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/brit-floyd-the-moon-the-wall-ridgefield-washington-10-18-2026/event/0F00648FC146C76A",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Diles Que No Me Maten (21 and Over)",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Sawyer Hill",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "http://catscradle.com/"
   }
  ]
 }
