@@ -1241,6 +1241,30 @@
    "date": "2026-10-18",
    "time": "20:00:00",
    "url": "http://catscradle.com/"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Julia Wolf - 94/7 Elysian Brewing Space Dust Sessions",
+   "date": "2026-10-19",
+   "time": "12:30:00",
+   "url": "https://www.ticketweb.com/event/julia-wolf-947-star-theater-tickets/14378234",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Malcolm Todd: Do That Again Tour",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=MALCOLM&linkID=pcpa&shopperContext=&caller=&appCode=",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Blondshell w/ Starcleaner Reunion",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
   }
  ]
 }
