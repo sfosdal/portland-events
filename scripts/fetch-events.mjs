@@ -21,6 +21,7 @@ import { mergeWithArchive, unionArchives, eventKey } from './merge.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs';
+import { feedSources } from './feeds.mjs';
 
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
 const ICS_OUT = new URL('../site/events.ics', import.meta.url);
@@ -110,8 +111,9 @@ const ticketmasterRooms = Object.entries(CITY.venues).filter(([, v]) => v.tm)
   .map(([label, v]) => () => ticketmasterVenue({ venueId: v.tm.id, venueMatch: v.tm.match, label, fallbackUrl: v.tm.fallbackUrl, exclude: v.tm.exclude }));
 const sources = [...ticketmasterRooms];
 // Secondary sources re-list shows the primaries carry under other titles;
-// anything at an already-taken venue/date/time is dropped. None yet.
-const secondary = [];
+// anything at an already-taken venue/date/time is dropped: Merc Tickets
+// (city.js `feeds`), behind Ticketmaster's rooms (Alberta Rose sells on both).
+const secondary = [...feedSources(CITY, BROWSER_UA)];
 
 // Venue names as city.js spells them: a venue listed under other spellings
 // (`alias` — "Theater of the Clouds", "Ron Tonkin Field")

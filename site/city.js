@@ -247,6 +247,24 @@
       tm: { id: 'KovZpa4spe', match: 'alberta rose', fallbackUrl: 'https://www.albertarosetheatre.com/events' },
       alias: /alberta rose/i,
     },
+    'Siren Theater': { // Old Town's improv and comedy house — its shows are sold on Merc Tickets (2026-10-19)
+      area: 'town',
+      type: 'arts',
+      cssVar: '--v-siren',
+      color: '#ea86c8',
+      url: 'https://www.sirentheater.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.sirentheater.com&sz=128',
+      alias: /siren theat(?:er|re)/i,
+    },
+    'The Hangar at Oaks Park': { // the hall at Oaks Amusement Park — the derby bouts are sold on the same Bold Type list as Merc Tickets (2026-10-19)
+      area: 'town',
+      type: 'sports', // roller derby: the Rose City Rollers' bouts
+      cssVar: '--v-hangar',
+      color: '#86d4ea',
+      url: 'https://www.oakspark.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.oakspark.com&sz=128',
+      alias: /hangar at oaks|oaks amusement park/i,
+    },
     'McMenamins Edgefield': {
       area: 'town',
       capacity: 5000,
@@ -293,7 +311,7 @@
   };
 
   // The usual view: every room on — nothing here lists nightly bar programs
-  var DEFAULT_ON = ['Moda Center', 'Veterans Memorial Coliseum', 'Providence Park', 'Keller Auditorium', 'Arlene Schnitzer Concert Hall', 'Newmark Theatre', 'Crystal Ballroom', 'Roseland Theater', 'Revolution Hall', 'Wonder Ballroom', 'Aladdin Theater', 'Star Theater', 'Hawthorne Theatre', 'Mississippi Studios', 'Polaris Hall', 'Alberta Rose Theatre', 'McMenamins Edgefield', 'ilani', 'Hillsboro Stadium', 'Hops Ballpark'];
+  var DEFAULT_ON = ['Moda Center', 'Veterans Memorial Coliseum', 'Providence Park', 'Keller Auditorium', 'Arlene Schnitzer Concert Hall', 'Newmark Theatre', 'Crystal Ballroom', 'Roseland Theater', 'Revolution Hall', 'Wonder Ballroom', 'Aladdin Theater', 'Star Theater', 'Hawthorne Theatre', 'Mississippi Studios', 'Polaris Hall', 'Alberta Rose Theatre', 'Siren Theater', 'The Hangar at Oaks Park', 'McMenamins Edgefield', 'ilani', 'Hillsboro Stadium', 'Hops Ballpark'];
   var DEFAULT_OFF = [];
   var PREFS_KNOWN_FROM = null; // no default-off venue yet, so nothing for saved prefs to be told about
 
@@ -318,6 +336,7 @@
     ['badge', 'concert'], ['badge', 'sports'], ['badge', 'arts'], ['badge', 'community'],
     ['team', 'blazers'], ['team', 'timbers'], ['team', 'thorns'], ['team', 'winterhawks'], ['team', 'hops'],
     ['cap', 'stadium'], ['cap', 'arena'], ['cap', 'hall'], ['cap', 'room'],
+    ['venue', 'Siren Theater'], ['venue', 'The Hangar at Oaks Park'], // appended 2026-10-19 (35 slots, still 7 digits)
   ];
 
   // The words the page uses for the place
@@ -347,6 +366,11 @@
     prefsKnownFrom: PREFS_KNOWN_FROM,
     types: TYPES,
     movieVenue: MOVIE_VENUE,
+    // city-wide listings (scripts/feeds.mjs): Merc Tickets read by the room and town in its Venue cell — its
+    // city buttons are loose (Steve, 2026-10-19: "use the location here"); only rooms with a row are kept
+    feeds: [
+      { kind: 'boldtype', label: 'Merc Tickets', url: 'https://www.merctickets.com', city: '', rooms: /(?:siren theat|hangar at oaks|alberta rose).*\bPortland, OR\b/i, drop: /season (?:tickets?|pass(?:es)?)|gift card/i },
+    ],
     groundsVenue: null, // every listing is read by room, so nothing arrives under a name city.js lacks
     codeLength: CODE_LENGTH,
     registry: REGISTRY,

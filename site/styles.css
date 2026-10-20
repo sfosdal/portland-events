@@ -19,7 +19,7 @@
      hues, less glare, so the stripes and ticks read after the titles */
   --v-moda: #9e2e2e; --v-vmc: #2e9e4f; --v-providence: #6f2e9e; --v-keller: #9e902e; --v-schnitz: #2e8b9e; --v-newmark: #9e2e6b; /* the rooms, one hue each (city.js cssVar), spread round the wheel */
   --v-crystal: #4a9e2e; --v-roseland: #332e9e; --v-revhall: #9e532e; --v-wonder: #2e9e74; --v-aladdin: #952e9e; --v-star: #879e2e;
-  --v-hawthorne: #2e669e; --v-mississippi: #9e2e45; --v-polaris: #2e9e37; --v-albertarose: #582e9e; --v-edgefield: #9e792e; --v-ilani: #2e9e9a;
+  --v-hawthorne: #2e669e; --v-mississippi: #9e2e45; --v-polaris: #2e9e37; --v-albertarose: #582e9e; --v-siren: #9e2e78; --v-hangar: #2e7f9e; --v-edgefield: #9e792e; --v-ilani: #2e9e9a;
   --v-hillsborostadium: #9e2e82; --v-hops: #619e2e;
   --venue-text: 72%;     /* how much of the venue hue the card's venue label keeps (light mode) */
   --tint: 26%;           /* the venue wash behind each card (light mode; 13% in the dark palette) */
@@ -77,7 +77,7 @@
   --line: #333f4a; --gold: #f08a33; --gold-soft: #3a2a1a;
   --v-moda: #ea8686; --v-vmc: #86eaa3; --v-providence: #c086ea; --v-keller: #eadd86; --v-schnitz: #86d9ea; --v-newmark: #ea86bc;
   --v-crystal: #9fea86; --v-roseland: #8a86ea; --v-revhall: #eaa786; --v-wonder: #86eac4; --v-aladdin: #e186ea; --v-star: #d5ea86;
-  --v-hawthorne: #86b7ea; --v-mississippi: #ea869a; --v-polaris: #86ea8e; --v-albertarose: #ab86ea; --v-edgefield: #eac886; --v-ilani: #86eae6;
+  --v-hawthorne: #86b7ea; --v-mississippi: #ea869a; --v-polaris: #86ea8e; --v-albertarose: #ab86ea; --v-siren: #ea86c8; --v-hangar: #86d4ea; --v-edgefield: #eac886; --v-ilani: #86eae6;
   --v-hillsborostadium: #ea86d0; --v-hops: #b3ea86;
   --venue-text: 100%; --tint: 13%;
   --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
