@@ -22,7 +22,8 @@
   --v-hawthorne: #2e669e; --v-mississippi: #9e2e45; --v-polaris: #2e9e37; --v-albertarose: #582e9e; --v-siren: #9e2e78; --v-hangar: #2e7f9e; --v-edgefield: #9e792e; --v-ilani: #2e9e9a;
   --v-hillsborostadium: #9e2e82; --v-hops: #619e2e;
   --venue-text: 72%;     /* how much of the venue hue the card's venue label keeps (light mode) */
-  --tint: 26%;           /* the venue wash behind each card (light mode; 13% in the dark palette) */
+  --tint: 26%;           /* the venue wash behind a series card (light mode; 13% in the dark palette) */
+  --row-a: #f3f6f8; --row-b: #d6dde3; /* the list's rows alternate light and dark grey; only a series keeps its venue's hue (Steve, 2026-10-20) */
   /* event-type hues (calendar ticks, agenda right edge): concerts salmon and
      arts crimson keep clear of the brand orange; movies slate = "quiet" */
   --t-concert: #d9664f;
@@ -62,6 +63,7 @@
     --v-hawthorne: #86b7ea; --v-mississippi: #ea869a; --v-polaris: #86ea8e; --v-albertarose: #ab86ea; --v-siren: #ea86c8; --v-hangar: #86d4ea; --v-edgefield: #eac886; --v-ilani: #86eae6;
     --v-hillsborostadium: #ea86d0; --v-hops: #b3ea86;
     --venue-text: 100%; --tint: 13%;
+    --row-a: #1e252c; --row-b: #2c343c;
     --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
     --t-movie: #8b9db0; --t-community: #e660a8; --t-expo: #4fd1c5; --t-bar: #e3ad3c; --alert: #ff4b3e;
     --bug-bg: #2b2d30; --bug-frame: #c9cdd2; --bug-ink: #f4f4f4; --bug-soft: #d5d8dc; --bug-dim: #b9bec4; --bug-rowline: #5c6167; --bug-off: #6a6d72; --bug-muted: #4a4f56; --bug-score-bg: #fafafa; --bug-shadow: rgba(0, 0, 0, .35); --bug-redzone: #ff7b7b;
@@ -80,6 +82,7 @@
   --v-hawthorne: #86b7ea; --v-mississippi: #ea869a; --v-polaris: #86ea8e; --v-albertarose: #ab86ea; --v-siren: #ea86c8; --v-hangar: #86d4ea; --v-edgefield: #eac886; --v-ilani: #86eae6;
   --v-hillsborostadium: #ea86d0; --v-hops: #b3ea86;
   --venue-text: 100%; --tint: 13%;
+  --row-a: #1e252c; --row-b: #2c343c;
   --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
   --t-movie: #8b9db0; --t-community: #e660a8; --t-expo: #4fd1c5; --t-bar: #e3ad3c; --alert: #ff4b3e;
   --bug-bg: #2b2d30; --bug-frame: #c9cdd2; --bug-ink: #f4f4f4; --bug-soft: #d5d8dc; --bug-dim: #b9bec4; --bug-rowline: #5c6167; --bug-off: #6a6d72; --bug-muted: #4a4f56; --bug-score-bg: #fafafa; --bug-shadow: rgba(0, 0, 0, .35); --bug-redzone: #ff7b7b;
@@ -755,7 +758,9 @@ button.cal-day:hover { background: color-mix(in srgb, var(--ink) 10%, var(--mist
   letter-spacing: .06em; color: var(--ink-soft); line-height: 1; /* "WEDNESDAY" fits the rail; line-height 1 like the clock's PM */
 }
 .day-events { display: grid; gap: .6rem; align-content: start; }
-/* each row carries a whisper of its venue's color (set inline by app.js) */
+.agenda .day-events > .ev { background: var(--row-a); } /* the list only: the Teams schedule keeps its home-game wash */
+.agenda .day-events > .ev:nth-child(even) { background: var(--row-b); }
+/* a series row carries a whisper of its venue's color (set inline by app.js); the rest are the greys above */
 .ev { display: flex; gap: .8rem; align-items: flex-start; padding: .45em .55em; border-radius: 6px; position: relative; overflow: hidden; }
 .ev-body { display: flex; flex-direction: column; align-items: flex-start; gap: .18rem; min-width: 0; }
 .ev-title { display: flex; align-items: center; gap: .45rem; min-width: 0; }
