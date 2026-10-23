@@ -1324,6 +1324,38 @@
    "date": "2026-10-21",
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Laura Ramoso: The Calm Down Tour",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=RAMOSO&linkID=pcpa&shopperContext=&caller=&appCode=",
+   "type": "arts"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Demon Hunter",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "http://hawthornetheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Dinosaur Jr w/ Stef Chura",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Etana with Coloso",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/etana-with-coloso-star-theater-tickets/14346134",
+   "type": "concert"
   }
  ]
 }
