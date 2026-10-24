@@ -1356,6 +1356,61 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/etana-with-coloso-star-theater-tickets/14346134",
    "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Lenny Pearce",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Providence Park",
+   "title": "Portland Thorns FC vs. North Carolina Courage",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.providenceparkpdx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Show at The Siren Theater",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/187987969/sold-out-friday-oct-23",
+   "soldOut": true
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "90s vs 2000s Halloween Costume Glow Ball - ages 21+",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Paul Cauthen w/ Leon Majcen",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Slow Pulp w/ Snuggle",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Violet Grohl Be Sweet To Me Tour with Suzy Clue",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/violet-grohl-be-sweet-to-star-theater-tickets/14953543",
+   "type": "concert"
   }
  ]
 }
