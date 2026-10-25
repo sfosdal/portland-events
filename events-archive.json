@@ -1411,6 +1411,90 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/violet-grohl-be-sweet-to-star-theater-tickets/14953543",
    "type": "concert"
+  },
+  {
+   "venue": "The Hangar at Oaks Park",
+   "title": "Break Neck Betties vs. Gorge All Stars",
+   "date": "2026-10-24",
+   "time": "15:30",
+   "url": "https://www.rollerderbytickets.com/events/188004024/break-neck-betties-vs-gorge-all-stars"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Pigeons Playing Ping Pong w/ Sqwerv",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Providence Park",
+   "title": "Portland Timbers vs. Charlotte FC",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.providenceparkpdx.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Kahane, Still & Copland",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Show at The Siren Theater",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/187987970/sold-out-saturday-oct-24",
+   "soldOut": true
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Dadi Freyr",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Dead Astaire (21 and Over)",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Knox w/ Emi Grace",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.wonderballroom.com/"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Theo Katzman",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Cherry Poppin Daddies with Los Mal Hablados and The Skylarkers",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/cherry-poppin-daddies-with-los-star-theater-tickets/14285414",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Akeem Ali",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.deccalive.com/"
   }
  ]
 }
