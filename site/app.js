@@ -223,7 +223,7 @@
         Object.keys(state.venueMode).forEach(function (v) {
           if (state.venues.indexOf(v) === -1) delete state.venueMode[v];
         });
-        renderFilters(); renderCal(); renderAgenda(); renderBoard(); updateSubscribe();
+        renderFilters(); renderCal(); renderAgenda(); renderBoard(); updateSubscribe(); if (window.LQAMap) LQAMap.render(); // a cold ?view=map load drew the map before the feed: again, with the counts (Steve, 2026-10-26: '0 upcoming at 0 of 22 places')
         if (!$('teamsView').hidden && teamView.slug !== undefined) renderTeams(teamView.slug); // a ?team= open drew the season before the feed arrived: again, with ticket links and counts
       })
       .catch(function (err) {
@@ -623,7 +623,7 @@
     return true;
   }
   // a filter change also rewinds the agenda to its first page
-  function applyFilters() { syncFilters(); renderViewNote(); renderCal(); renderAgenda(); renderBoard(); updateSubscribe(); saveFilters(); }
+  function applyFilters() { syncFilters(); renderViewNote(); renderCal(); renderAgenda(); renderBoard(); updateSubscribe(); saveFilters(); if (window.LQAMap) LQAMap.render(); } // the Map view's pins follow the filters (local-map.js, in a city that has one)
   // ---- the view note (2026-09-20, for readers who never open the panel) ----
   // One plain line above the list while the view is not the usual one: the
   // preset's name when one matches, else what is hidden or added compared
@@ -976,7 +976,7 @@
   }
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(placeKnob); // the words' width settles when the face loads
   function syncViewSwitch() { // the knob and the stops follow the view on show
-    var v = !$('teamsView').hidden ? 'teams' : monthOpen() ? 'month' : 'events';
+    var v = (window.LQAMap && LQAMap.isOpen()) ? 'map' : !$('teamsView').hidden ? 'teams' : monthOpen() ? 'month' : 'events'; // the Map view (local-map.js) is a fourth stop in a city that has one
     $('viewToggle').dataset.active = v;
     $('viewToggle').querySelectorAll('button[data-view]').forEach(function (b) { b.setAttribute('aria-checked', String(b.dataset.view === v)); });
     placeKnob();
@@ -1258,6 +1258,7 @@
   // every club's schedule in one list; 'auto' is the view's own choice
   // (defaultTeamSlug), made once the schedules are in.
   function setTeamsView(slug, push) {
+    if (slug && window.LQAMap && LQAMap.isOpen()) LQAMap.open(false, false); // a ?team= link or popstate opens Teams over the map
     var open = !!slug;
     document.documentElement.classList.toggle('teams-open', open);
     var bn = document.querySelector('.bar-name'), h1 = document.querySelector('.masthead h1'); // the masthead and the pinned bar's title name the view: the events, or the clubs
@@ -1909,7 +1910,7 @@
     var side = next ? buildFormSide(form, lead.childNodes.length ? lead : null) : null;
     if (side) box.appendChild(side);
     var strip = next ? buildWatchStrip(next.watch ? next.watch.tv || [] : [], next.watch ? next.watch.radio : null, '', team) : null; // the strip while a game is ahead; with the season played out it goes, and its room goes to the column's wrap (Steve, 2026-10-05: "removing the how to watch/listen section")
-    if (strip) box.appendChild(strip); else box.classList.add('no-watch');
+    if (strip) box.appendChild(strip); else { box.classList.add('no-watch'); var sb = buildSchedButton(); sb.classList.add('is-loose'); box.appendChild(sb); } // the season played out: no strip, the button alone at the block's foot
     inner.appendChild(buildBrief(lead, strip)); // the pinned bar's run
     return box;
   }
@@ -2122,6 +2123,7 @@
     radio = (radio || []).slice();
     (club.radio || []).forEach(function (r) { if (radio.indexOf(r) < 0) radio.push(r); });
     var wl = document.createElement('div'); wl.className = 'tf-watch';
+    wl.appendChild(buildSchedButton());
     if (label) { var lb = document.createElement('b'); lb.className = 'tf-watch-label'; lb.textContent = label; wl.appendChild(lb); }
     var parts = splitWatch(names);
     var sections = [
@@ -3316,7 +3318,7 @@
   }
   // one club picked: its poster. Several: a chooser under the chip — one of
   // them, or All, which prints them one after another (Steve, 2026-09-15)
-  $('teamPdfBtn').addEventListener('click', function () {
+  function openSeasonCalendar(anchor) { // the bar's Season Calendar chip, and the Season Schedule button in every game block's footer strip (Steve, 2026-10-26)
     var sel = selectedTeams();
     if (!sel.length) return;
     if (sel.length === 1) { printTeams(sel); return; }
@@ -3329,14 +3331,21 @@
       b.addEventListener('click', function () { pick.remove(); printTeams([t]); });
       pick.appendChild(b);
     });
-    var r = $('teamPdfBtn').getBoundingClientRect(); // its left edge on the chip's
+    var r = (anchor || $('teamPdfBtn')).getBoundingClientRect(); // its left edge on the chip's
     pick.style.top = (r.bottom + 6) + 'px'; pick.style.left = Math.max(8, Math.min(r.left, window.innerWidth - 8 - 12 * 16)) + 'px';
     document.body.appendChild(pick);
     setTimeout(function () { // outside tap or Esc closes it
       var off = function (e) { if (e.type === 'keydown' && e.key !== 'Escape') return; if (e.type === 'click' && e.target.closest('.pdf-pick')) return; pick.remove(); document.removeEventListener('click', off, true); document.removeEventListener('keydown', off); };
       document.addEventListener('click', off, true); document.addEventListener('keydown', off);
     }, 0);
-  });
+  }
+  $('teamPdfBtn').addEventListener('click', function () { openSeasonCalendar($('teamPdfBtn')); });
+  function buildSchedButton() { // "Season Schedule", the calendar icon and the words, at the strip's left end
+    var b = document.createElement('button'); b.type = 'button'; b.className = 'tf-sched'; b.title = 'Season schedule — the whole season as a calendar';
+    b.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4M8 13h3M13 13h3M8 17h3M13 17h3"/></svg><span>Season Schedule</span>';
+    b.addEventListener('click', function (e) { e.stopPropagation(); openSeasonCalendar(b); });
+    return b;
+  }
   function printTeams(list) { // a print dialog per club, each with its own calendar drawn for the sheet
     var i = 0;
     (function next() {
@@ -3392,6 +3401,10 @@
     var view = b && b.dataset.view !== cur ? b.dataset.view : nextStop($('viewToggle'), 'data-view', cur);
     b = $('viewToggle').querySelector('button[data-view="' + view + '"]');
     if (!b) return;
+    if (window.LQAMap) { // the Map stop, in a city that has one: Map in, or out of, the cycle
+      if (b.dataset.view === 'map') { if (!$('teamsView').hidden) setTeamsView(null, true); setMonthView(false, true); LQAMap.open(true, true); return; }
+      if (LQAMap.isOpen()) LQAMap.open(false, true);
+    }
     if (b.dataset.view === 'teams') { if ($('teamsView').hidden) setTeamsView(teamView.slug || new URLSearchParams(location.search).get('team') || 'auto', true); return; }
     if (!$('teamsView').hidden) setTeamsView(null, true);
     setMonthView(b.dataset.view === 'month', true);
@@ -4325,4 +4338,5 @@
   }
   // a ?team= link opens the Teams view straight away
   if (new URLSearchParams(location.search).get('team')) setTeamsView(new URLSearchParams(location.search).get('team'), false);
+  window.LQAHooks = { dayItems: dayItems, byDate: function () { return state.byDate; }, boardEntry: boardEntry, closeDayPop: closeDayPop, syncViewSwitch: syncViewSwitch, fitFilterBar: fitFilterBar, todayStr: todayStr, venueColor: venueColor }; // what local-map.js borrows
 })();

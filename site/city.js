@@ -77,6 +77,7 @@
   var VENUES = {
     // --- The Rose Quarter, Providence Park and the Portland'5 halls ---
     'Moda Center': {
+      geo: [45.53119, -122.66646],
       capacity: 19393,
       type: 'sports',
       cssVar: '--v-moda',
@@ -87,6 +88,7 @@
       alias: /moda center|theater of the clouds|rose garden arena/i,
     },
     'Veterans Memorial Coliseum': {
+      geo: [45.5333, -122.66744],
       capacity: 12000,
       type: 'concert',
       cssVar: '--v-vmc',
@@ -97,6 +99,7 @@
       alias: /veterans memorial coliseum|memorial coliseum/i,
     },
     'Providence Park': {
+      geo: [45.52158, -122.69167],
       capacity: 25218,
       type: 'sports',
       cssVar: '--v-providence',
@@ -107,6 +110,7 @@
       alias: /providence park/i,
     },
     'Keller Auditorium': {
+      geo: [45.51273, -122.67912],
       capacity: 2992,
       type: 'arts',
       cssVar: '--v-keller',
@@ -117,6 +121,7 @@
       alias: /keller auditorium/i,
     },
     'Arlene Schnitzer Concert Hall': {
+      geo: [45.51686, -122.68119],
       capacity: 2776,
       type: 'arts',
       cssVar: '--v-schnitz',
@@ -127,6 +132,7 @@
       alias: /schnitzer/i,
     },
     'Newmark Theatre': {
+      geo: [45.50444, -122.68556],
       capacity: 880,
       type: 'arts',
       cssVar: '--v-newmark',
@@ -138,6 +144,7 @@
     },
     // --- Music rooms and around (`area: 'town'`): the ballrooms and clubs across the city, then Troutdale, Ridgefield and Hillsboro ---
     'Crystal Ballroom': {
+      geo: [45.5229, -122.68478],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -149,6 +156,7 @@
       alias: /crystal ballroom|lola'?s room/i,
     },
     'Roseland Theater': {
+      geo: [45.52328, -122.67643],
       area: 'town',
       capacity: 1410,
       type: 'concert',
@@ -160,6 +168,7 @@
       alias: /roseland/i,
     },
     'Revolution Hall': {
+      geo: [45.51896, -122.65209],
       area: 'town',
       capacity: 850,
       type: 'concert',
@@ -171,6 +180,7 @@
       alias: /revolution hall/i,
     },
     'Wonder Ballroom': {
+      geo: [45.54064, -122.66338],
       area: 'town',
       capacity: 778,
       type: 'concert',
@@ -182,6 +192,7 @@
       alias: /wonder ballroom/i,
     },
     'Aladdin Theater': {
+      geo: [45.5011, -122.65425],
       area: 'town',
       capacity: 620,
       type: 'concert',
@@ -193,6 +204,7 @@
       alias: /aladdin theat/i,
     },
     'Star Theater': {
+      geo: [45.52337, -122.67665],
       area: 'town',
       capacity: 350,
       type: 'concert',
@@ -204,6 +216,7 @@
       alias: /^star theat/i,
     },
     'Hawthorne Theatre': {
+      geo: [45.51181, -122.62307],
       area: 'town',
       capacity: 500,
       type: 'concert',
@@ -215,6 +228,7 @@
       alias: /hawthorne theat/i,
     },
     'Mississippi Studios': {
+      geo: [45.55182, -122.67583],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -226,6 +240,7 @@
       alias: /mississippi studios/i,
     },
     'Polaris Hall': {
+      geo: [45.5704, -122.6905],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -237,6 +252,7 @@
       alias: /polaris hall/i,
     },
     'Alberta Rose Theatre': {
+      geo: [45.55895, -122.63468],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -248,6 +264,7 @@
       alias: /alberta rose/i,
     },
     'Siren Theater': { // Old Town's improv and comedy house — its shows are sold on Merc Tickets (2026-10-19)
+      geo: [45.5511, -122.67583],
       area: 'town',
       type: 'arts',
       cssVar: '--v-siren',
@@ -257,6 +274,7 @@
       alias: /siren theat(?:er|re)/i,
     },
     'The Hangar at Oaks Park': { // the hall at Oaks Amusement Park — the derby bouts are sold on the same Bold Type list as Merc Tickets (2026-10-19)
+      geo: [45.4727, -122.6622],
       area: 'town',
       type: 'sports', // roller derby: the Rose City Rollers' bouts
       cssVar: '--v-hangar',
@@ -266,6 +284,7 @@
       alias: /hangar at oaks|oaks amusement park/i,
     },
     'McMenamins Edgefield': {
+      geo: [45.53713, -122.40874],
       area: 'town',
       capacity: 5000,
       type: 'concert',
@@ -277,6 +296,7 @@
       alias: /edgefield/i,
     },
     'ilani': {
+      geo: [45.85362, -122.70737],
       area: 'town',
       capacity: 2500,
       type: 'concert',
@@ -288,6 +308,7 @@
       alias: /ilani/i,
     },
     'Hillsboro Stadium': {
+      geo: [45.55294, -122.90917],
       area: 'town',
       capacity: 7600,
       type: 'sports',
@@ -299,6 +320,7 @@
       alias: /hillsboro stadium/i,
     },
     'Hops Ballpark': {
+      geo: [45.55561, -122.90883],
       area: 'town',
       capacity: 4500,
       type: 'sports',
@@ -360,6 +382,19 @@
     ics: { name: 'Portland Events', short: 'Portland Events', teams: 'Portland home teams — every season', prodid: '-//here.events//portland-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Portland\\, OR — the Moda Center\\, the Coliseum\\, Providence Park\\, the Portland\'5 halls and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [45.416, -122.984, 45.911, -122.334], // south, west, north, east — every room, with a margin
+      home: [45.497, -122.711, 45.541, -122.647], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Portland', lat: 45.515, lon: -122.678, anchor: 'middle' },
+        { name: 'Camas', lat: 45.5863, lon: -122.40328, anchor: 'middle' },
+        { name: 'Troutdale', lat: 45.53929, lon: -122.38731, anchor: 'middle' },
+        { name: 'Ridgefield', lat: 45.81676, lon: -122.74338, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
