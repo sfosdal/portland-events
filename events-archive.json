@@ -1495,6 +1495,53 @@
    "date": "2026-10-24",
    "time": "20:00:00",
    "url": "https://www.deccalive.com/"
+  },
+  {
+   "venue": "The Hangar at Oaks Park",
+   "title": "Rose City Juniors G1: Bad Apples v Skaters of Doom G2: Bleeding Hearts v Death Scar Derby Droids",
+   "date": "2026-10-25",
+   "time": "11:00",
+   "url": "https://www.rollerderbytickets.com/events/176063405/rose-city-juniors-g1-bad-apples-v-skaters-of-doom-g2-bleeding-hearts-v-death-scar-derby-droids"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Kahane, Still & Copland",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "A Split - Second with Dancing Plague and Graveyard Gossip",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/a-split-second-star-theater-tickets/14289534",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Pouya w/ Fat Nick",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "The Dillinger Escape Plan w/ XCOMM",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Frankie Cosmos",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
