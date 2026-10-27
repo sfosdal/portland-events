@@ -1542,6 +1542,45 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "You Should Be Dancing ??? A Tribute to the Bee Gees",
+   "date": "2026-10-26",
+   "time": "19:30:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Julia Jacklin w/ Jordan Patterson",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Faux Real (21 and Over)",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "George Clanton w/ ideasforconversations",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Kota the Friend w/ Landon Wordswell",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "http://hawthornetheatre.com/",
+   "type": "concert"
   }
  ]
 }
