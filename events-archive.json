@@ -1619,6 +1619,118 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "La Velada – A Flamenco Performance by Marta Gálvez",
+   "date": "2026-10-28",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/la-velada-a-flamenco-performance-by-marta-g%c3%a1lvez/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Wednesday Night Special: Kyle Kinane (Early)",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "url": "https://www.etix.com/ticket/p/68850278/sold-outwednesday-night-specialkyle-kinane-early-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Tony Smiley",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/278860-tony-smiley",
+   "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Portland Winterhawks vs Vancouver Giants",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-winterhawks-vs-vancouver-giants-portland-oregon-10-28-2026/event/0F0064FB98E57296",
+   "type": "sports"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Basement w/ High Vis",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Reel Rock 20",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Ho99o9 & N8NOFACE – Sincerely___ The Void",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "url": "https://hawthornetheatre.com/event/ho99o9-n8noface-sincerely___-the-void/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "La Velada – A Flamenco Performance by Marta Gálvez",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "url": "https://albertarosetheatre.com/event/la-velada-a-flamenco-performance-by-marta-g%c3%a1lvez/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Psycho in Concert",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Ho99o9 w/ N8NOFACE",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "http://hawthornetheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Margo Cilker",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/56213680",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Everclear",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.crystalballroompdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Team Dresch w/ heavens to betsy",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Wednesday Night Special: Kyle Kinane (Late)",
+   "date": "2026-10-28",
+   "time": "21:30",
+   "url": "https://www.etix.com/ticket/p/87137957/sold-outwednesday-night-specialkyle-kinane-late-portland-mississippi-studios",
+   "type": "concert"
   }
  ]
 }
