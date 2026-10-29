@@ -14,6 +14,7 @@
  * API (Hops, whose home games are injected — no ticket feed lists them)
  * (scripts/schedules.mjs).
  */
+import './failures.mjs'; // first: every outside call retried, the ones still failing written to failures.json (Steve, 2026-10-29)
 import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { isChurch } from './sources.mjs';
