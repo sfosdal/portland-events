@@ -1731,6 +1731,157 @@
    "time": "21:30",
    "url": "https://www.etix.com/ticket/p/87137957/sold-outwednesday-night-specialkyle-kinane-late-portland-mississippi-studios",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Rebecca Black: Exhibitionism on Tour",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://wonderballroom.com/event/rebecca-black-exhibitionism-on-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "DAPPERLESQUE: Villain Era – A Gender-Bending Burlesque Cabaret",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/dapperlesque-villain-era-a-gender-bending-burlesque-cabaret/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Samhain: Halloween Pop-up Bars",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://www.mcmenamins.com/events/279074-samhain-halloween-pop-up-bars",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Kinky Creatures Market",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://hawthornetheatre.com/event/kinky-creatures-market/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Inna Kovtun",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/278861-inna-kovtun",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Portland Trail Blazers vs. Memphis Grizzlies",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-memphis-grizzlies-portland-oregon-10-29-2026/event/0F0065049CB88E85",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "KUNP 16",
+     "BlazerVision"
+    ]
+   }
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Michael Lewis in Conversation",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "url": "https://www.portland5.com/event/michael-lewis-conversation",
+   "type": "arts"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-portland-oregon-10-29-2026/event/0F0064B5A05FA0E0",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Michael Lewis",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Rebecca Black: Exhibitionism on Tour",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/rebecca-black-exhibitionism-on-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Nate Varrone \"Interesting Perspectives\" Tour",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.mississippistudios.com/calendar",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Olive Klug",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/55182257",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "DAPPERLESQUE: Villain Era – A Gender-Bending Burlesque Cabaret",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://albertarosetheatre.com/event/dapperlesque-villain-era-a-gender-bending-burlesque-cabaret/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Show at The Siren Theater",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/188577625/sold-out-thursday-oct-29",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Rescheduled To 3/29/27: Death From Above 1979 - Private Lives Tour",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/86535788/rescheduled-to-32927death-from-above-1979-private-lives-tour-portland-revolution-hall",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Medium Build",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Protomartyr w/ Accessory",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Fenix Flexin",
+   "date": "2026-10-29",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/fenix-flexin-star-theater-tickets/14343274",
+   "type": "concert"
   }
  ]
 }
