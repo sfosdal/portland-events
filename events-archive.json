@@ -1882,6 +1882,110 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/fenix-flexin-star-theater-tickets/14343274",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Shawn James “Flew Too Close To The Sun Tour”",
+   "date": "2026-10-30",
+   "time": "",
+   "url": "https://wonderballroom.com/event/shawn-james-flew-too-close-to-the-sun-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Samhain: Halloween Pop-up Bars",
+   "date": "2026-10-30",
+   "time": "",
+   "url": "https://www.mcmenamins.com/events/279073-samhain-halloween-pop-up-bars",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Pain Of Truth",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://hawthornetheatre.com/event/pain-of-truth/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "The Pete Krebs Trio",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/278862-the-pete-krebs-trio",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Gorillaz",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://www.rosequarter.com/calendar-events/gorillaz-oct-30-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Floater",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277822-floater/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Shawn James “Flew Too Close To The Sun Tour”",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/shawn-james-flew-too-close-to-the-sun-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Show at The Siren Theater",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/187988003/sold-out-friday-oct-30",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Glitterfox",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Ax and the Hatchetmen",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Gilla Band",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/80447770/gilla-band-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "The Wldlfe",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/57537202",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Constant Debauchery with Sacre Bleu",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/constant-debauchery-with-sacre-bleu-star-theater-tickets/14355904",
+   "type": "concert"
   }
  ]
 }
