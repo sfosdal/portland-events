@@ -2145,6 +2145,83 @@
    "time": "21:00",
    "url": "https://www.mississippistudios.com/calendar",
    "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Stravinsky & Beethoven",
+   "date": "2026-11-01",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "PRIMA Ballet Gala",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://www.portland5.com/event/prima-ballet-gala",
+   "type": "arts"
+  },
+  {
+   "venue": "Providence Park",
+   "title": "Portland Timbers vs. Houston Dynamo",
+   "date": "2026-11-01",
+   "time": "18:00:00",
+   "url": "https://www.providenceparkpdx.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Tracy Kim",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279197-tracy-kim",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Plini w/ Night Verses",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Lime Garden",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/95590751/sold-outlime-garden-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "The Smashing Pumpkins",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "url": "https://www.rosequarter.com/calendar-events/the-smashing-pumpkins-nov-1-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Rival Sons w/ The Blue Stones",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Buena Vista Orchestra",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
