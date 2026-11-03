@@ -400,6 +400,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
+      boundary: { osm: 186579 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Portland
       bbox: [45.416, -122.984, 45.911, -122.334], // south, west, north, east — every room, with a margin
       home: [45.497, -122.711, 45.541, -122.647], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
