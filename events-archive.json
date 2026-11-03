@@ -2222,6 +2222,54 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "WorldOregon presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
+   "date": "2026-11-02",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/worldoregon-presents-dr-katharine-hayhoe-climate-action-conversation-across-divides/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "WorldOregon presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/worldoregon-presents-dr-katharine-hayhoe-climate-action-conversation-across-divides/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Big Star Quintet (Night 1)",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/85293752/sold-outbig-star-quintet-night-1-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Mdou Moctar (Solo)",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/57401268",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Slothrust w/ Um, Jennifer?",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "King Buffalo w/ L.A. Witch",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
