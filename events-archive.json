@@ -2270,6 +2270,62 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Girl Winter Film Tour",
+   "date": "2026-11-03",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/girl-winter-film-tour/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Girl Winter Film Tour",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/girl-winter-film-tour/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Big Star Quintet (Night 2)",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/35949788/sold-outbig-star-quintet-night-2-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Worst Party Ever / Equipment",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/69458380",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Cardinal Bloom (21 and Over)",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "John Scofield (21 and Over)",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Greg Freeman w/ Trinity Ace",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
