@@ -2326,6 +2326,109 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Davide De Pierro",
+   "date": "2026-11-04",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/davide-de-pierro/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Icon For Hire: Scripted 15 Year Anniversary Tour",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://hawthornetheatre.com/event/icon-for-hire-scripted-15-year-anniversary-tour/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Ben Larsen",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279198-ben-larsen",
+   "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Portland Winterhawks vs Medicine Hat Tigers",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-winterhawks-vs-medicine-hat-tigers-portland-oregon-11-04-2026/event/0F0064FB98F1730D",
+   "type": "sports"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Davide De Pierro",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "url": "https://albertarosetheatre.com/event/davide-de-pierro/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Philip Glass Ensemble",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Nahko And Medicine For The People – Hoka 10TH Anniversary Tour",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/nahko-and-medicine-for-the-star-theater-tickets/14932633",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Isaiah Rashad",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/278684-isaiah-rashad/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Improvement Movement - Your Perfect Real LIVE '26",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/40491423/improvement-movement-your-perfect-real-live-26-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Ian Sweet",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/91356970",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Pinhead Gunpowder",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Bahamas w/ Sister Ray",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Isaiah Rashad: Lil Sunny's Awful Road Trip",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "http://etix.com/ticket/p/91748539/isaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom",
+   "type": "concert"
   }
  ]
 }
