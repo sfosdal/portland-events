@@ -2541,6 +2541,135 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "INOHA",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://wonderballroom.com/event/inoha/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Chris Smither",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/chris-smither-2/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "La Traviata",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.portland5.com/event/la-traviata",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "First Thursday Crafts & Cocktails",
+   "date": "2026-11-06",
+   "time": "16:00",
+   "url": "https://www.crystalballroompdx.com/events/278640-first-thursday-crafts-cocktails/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Reb Conner",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279200-reb-conner",
+   "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Portland Winterhawks vs Spokane Chiefs",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-winterhawks-vs-spokane-chiefs-portland-oregon-11-06-2026/event/0F0064FB98F67332",
+   "type": "sports"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "INOHA",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://wonderballroom.com/event/inoha/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Murray Hill - Showbiz! The Tour",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://www.etix.com/ticket/p/36567432",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "La Traviata",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Lilyisthatyou",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/lilyisthatyou/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Chris Smither",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://albertarosetheatre.com/event/chris-smither-2/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Show at The Siren Theater",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/188513744/sold-out-friday-nov-6",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Railroad Earth",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Marci (21 and Over)",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "The Hyrule Ball",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-hyrule-ball-star-theater-tickets/14364104",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: mary in the junkyard",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/75383831/sold-outmary-in-the-junkyard-portland-mississippi-studios",
+   "type": "concert"
   }
  ]
 }
