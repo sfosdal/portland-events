@@ -83,7 +83,7 @@
       cssVar: '--v-moda',
       color: '#ea8686',
       url: 'https://www.rosequarter.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.rosequarter.com&sz=128',
+      icon: 'marks/venues/rosequarter.com.png',
       tm: { id: 'KovZpa6MXe', match: 'moda center', fallbackUrl: 'https://www.rosequarter.com/events', exclude: /parking|tour/i },
       feed: { kind: 'cards', secondary: true, url: 'https://www.rosequarter.com/events', item: /class="cl-events-item/, title: /<a href="([^"]*)" class="card-info[^>]*>[\s\S]*?card-who artist mbl">([^<]*)</, when: /card-date-time">([^<]*)<[\s\S]*?date-sort">([^<]*)</, place: /fs-cmsfilter-field="venue" class="filter-type">([^<]*)</, venues: /moda center/i, type: 'concert', drop: /parking|\btours?\b/i }, // the Rose Quarter's own Webflow calendar (concerts; the games come from the Teams schedules), behind Ticketmaster (2026-10-27)
       alias: /moda center|theater of the clouds|rose garden arena/i,
@@ -95,7 +95,7 @@
       cssVar: '--v-vmc',
       color: '#86eaa3',
       url: 'https://www.rosequarter.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.rosequarter.com&sz=128',
+      icon: 'marks/venues/rosequarter.com.png',
       tm: { id: 'KovZpZAJ67kA', match: 'veterans memorial coliseum', fallbackUrl: 'https://www.rosequarter.com/events', exclude: /parking/i },
       feed: { kind: 'cards', secondary: true, url: 'https://www.rosequarter.com/events', item: /class="cl-events-item/, title: /<a href="([^"]*)" class="card-info[^>]*>[\s\S]*?card-who artist mbl">([^<]*)</, when: /card-date-time">([^<]*)<[\s\S]*?date-sort">([^<]*)</, place: /fs-cmsfilter-field="venue" class="filter-type">([^<]*)</, venues: /veterans memorial coliseum/i, drop: /parking|\btours?\b/i }, // the Rose Quarter's own calendar, the Coliseum's cards (2026-10-27)
       alias: /veterans memorial coliseum|memorial coliseum/i,
@@ -107,7 +107,7 @@
       cssVar: '--v-providence',
       color: '#c086ea',
       url: 'https://www.timbers.com/schedule/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.timbers.com&sz=128',
+      icon: 'marks/venues/timbers.com.png',
       tm: { id: 'KovZpZAIFAAA', match: 'providence park', fallbackUrl: 'https://www.timbers.com/schedule/', exclude: /parking|stadium tour/i },
       alias: /providence park/i,
     },
@@ -118,7 +118,7 @@
       cssVar: '--v-keller',
       color: '#eadd86',
       url: 'https://www.portland5.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.portland5.com&sz=128',
+      icon: 'marks/venues/portland5.com.png',
       tm: { id: 'KovZpZAEkdFA', match: 'keller auditorium', fallbackUrl: 'https://www.portland5.com/events' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.portland5.com/events?venue%5B136%5D=136', item: /class="teaser teaser--event/, title: /<a href="([^"]*)" class="teaser__link"><span>([^<]*)</, when: /teaser__body">([^<]*)(?:<br>([^<]*))?</, place: /teaser__venue-name">([^<]*)</, venues: /keller/i }, // Portland'5's own listing filtered to the Keller — its first page of ten only (the list pages at ten), behind Ticketmaster (2026-10-27)
       alias: /keller auditorium/i,
@@ -130,7 +130,7 @@
       cssVar: '--v-schnitz',
       color: '#86d9ea',
       url: 'https://www.portland5.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.portland5.com&sz=128',
+      icon: 'marks/venues/portland5.com.png',
       tm: { id: 'KovZpZAEkkJA', match: 'schnitzer', fallbackUrl: 'https://www.portland5.com/events' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.portland5.com/events?venue%5B126%5D=126', item: /class="teaser teaser--event/, title: /<a href="([^"]*)" class="teaser__link"><span>([^<]*)</, when: /teaser__body">([^<]*)(?:<br>([^<]*))?</, place: /teaser__venue-name">([^<]*)</, venues: /schnitzer/i }, // Portland'5's listing filtered to the Schnitzer, first page of ten (2026-10-27)
       alias: /schnitzer/i,
@@ -142,7 +142,7 @@
       cssVar: '--v-newmark',
       color: '#ea86bc',
       url: 'https://www.portland5.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.portland5.com&sz=128',
+      icon: 'marks/venues/portland5.com.png',
       tm: { id: 'KovZpZA7klvA', match: 'newmark', fallbackUrl: 'https://www.portland5.com/events' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.portland5.com/events?venue%5B146%5D=146', item: /class="teaser teaser--event/, title: /<a href="([^"]*)" class="teaser__link"><span>([^<]*)</, when: /teaser__body">([^<]*)(?:<br>([^<]*))?</, place: /teaser__venue-name">([^<]*)</, venues: /newmark/i }, // Portland'5's listing filtered to the Newmark, first page of ten (2026-10-27)
       alias: /newmark theat/i,
@@ -156,7 +156,6 @@
       cssVar: '--v-crystal',
       color: '#9fea86',
       url: 'https://www.crystalballroompdx.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.crystalballroompdx.com&sz=128',
       tm: { id: 'KovZpZAFFJnA', match: 'crystal ballroom', fallbackUrl: 'https://www.crystalballroompdx.com/events', secondary: true },
       feed: { kind: 'tribe', url: 'https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events', drop: /\btours?\b/i }, // the ballroom's own calendar (The Events Calendar) leads: 69 rows to Ticketmaster's 44; the history tours dropped (2026-10-27)
       alias: /crystal ballroom|lola'?s room/i,
@@ -169,7 +168,7 @@
       cssVar: '--v-roseland',
       color: '#8a86ea',
       url: 'https://roselandpdx.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=roselandpdx.com&sz=128',
+      icon: 'marks/venues/roselandpdx.com.png',
       tm: { id: 'KovZpap9re', match: 'roseland', fallbackUrl: 'https://roselandpdx.com/events/' },
       feed: { kind: 'cards', secondary: true, url: 'https://roselandpdx.com/events/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /singleEventDate[^>]*>\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/, place: /class="[^"]*venueLink"[^>]*>([^<]*)</, venues: /roseland/i }, // the theater's own listing (Rockhouse theme; the show clock, not the doors), behind Ticketmaster (2026-10-27)
       alias: /roseland/i,
@@ -182,7 +181,7 @@
       cssVar: '--v-revhall',
       color: '#eaa786',
       url: 'https://www.revolutionhall.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=revolutionhall.com&sz=128',
+      icon: 'marks/venues/revolutionhall.com.png',
       tm: { id: 'KovZpZAEkdIA', match: 'revolution hall', fallbackUrl: 'https://www.revolutionhall.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.revolutionhall.com/', item: /<div class="event event--grid-style/, title: /<h3 itemprop="name"><a href="([^"]*)"[^>]*>([^<]*)</, when: /event-date--full">([A-Za-z]{3}, [A-Za-z]+ \d{1,2})(?:st|nd|rd|th)?(, \d{4})<(?:[\s\S]*?event-doors-showtime"[^>]*>(?:[^<]*?Show:)?\s*([^<]*)<)?/, place: /alt="([^"]*) Logo"/, venues: /revolution hall|showbar/i }, // the hall's own grid (its first 30 shows; Show Bar is its second room), behind Ticketmaster; 'Tonight'/'Tomorrow' rows carry no date (2026-10-27)
       alias: /revolution hall/i,
@@ -195,7 +194,7 @@
       cssVar: '--v-wonder',
       color: '#86eac4',
       url: 'https://wonderballroom.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=wonderballroom.com&sz=128',
+      icon: 'marks/venues/wonderballroom.com.png',
       tm: { id: 'KovZpa9hBe', match: 'wonder ballroom', fallbackUrl: 'https://wonderballroom.com/events/', secondary: true },
       feed: { kind: 'cards', url: 'https://wonderballroom.com/events/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /dateEvent text-uppercase">\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/, place: /class="[^"]*venueLink"[^>]*>([^<]*)</, venues: /wonder ballroom/i }, // the ballroom's own listing leads: 38 rows to Ticketmaster's 13 (2026-10-27)
       alias: /wonder ballroom/i,
@@ -208,7 +207,7 @@
       cssVar: '--v-aladdin',
       color: '#e186ea',
       url: 'https://www.aladdin-theater.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=aladdin-theater.com&sz=128',
+      icon: 'marks/venues/aladdin-theater.com.png',
       tm: { id: 'KovZpa3qfe', match: 'aladdin', fallbackUrl: 'https://www.aladdin-theater.com/', secondary: true },
       feed: { kind: 'cards', url: 'https://www.aladdin-theater.com/', item: /<div class="event event--card-style/, title: /<a href="([^"]*)" class="event-title-link[^>]*><h3 class="event-title" itemprop="name">([^<]*)</, when: /itemprop="startDate" content="([^"]*)"/, place: /event-venue">([^<]*)</, venues: /aladdin/i }, // the theater's own listing leads: 93 rows to Ticketmaster's 51; the microdata startDate is the wall clock with a +00:00 stamp (2026-10-27)
       alias: /aladdin theat/i,
@@ -221,7 +220,7 @@
       cssVar: '--v-star',
       color: '#d5ea86',
       url: 'https://www.startheaterportland.com/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=startheaterportland.com&sz=128',
+      icon: 'marks/venues/startheaterportland.com.jpg',
       tm: { id: 'KovZpZAIvlnA', match: 'star theater', fallbackUrl: 'https://www.startheaterportland.com/calendar/' },
       alias: /^star theat/i,
     },
@@ -233,7 +232,7 @@
       cssVar: '--v-hawthorne',
       color: '#86b7ea',
       url: 'https://hawthornetheatre.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=hawthornetheatre.com&sz=128',
+      icon: 'marks/venues/hawthornetheatre.com.png',
       tm: { id: 'KovZpZAkn7IA', match: 'hawthorne theatre', fallbackUrl: 'https://hawthornetheatre.com/events/', secondary: true },
       feed: { kind: 'cards', url: 'https://hawthornetheatre.com/events/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /singleEventDate[^>]*>\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/, place: /class="[^"]*venueLink"[^>]*>([^<]*)</, venues: /hawthorne/i }, // the theatre's own listing (Theatre + Lounge) leads: 50 rows to Ticketmaster's 20 (2026-10-27)
       alias: /hawthorne theat/i,
@@ -246,7 +245,7 @@
       cssVar: '--v-mississippi',
       color: '#ea869a',
       url: 'https://www.mississippistudios.com/calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mississippistudios.com&sz=128',
+      icon: 'marks/venues/mississippistudios.com.png',
       tm: { id: 'KovZ917Ai0C', match: 'mississippi studios', fallbackUrl: 'https://www.mississippistudios.com/calendar', secondary: true },
       feed: { kind: 'cards', url: 'https://www.mississippistudios.com/calendar', item: /<div class="event__item/, title: /<h2 class="event-title">\s*<a href="([^"]*)"[^>]*>([^<]*)</, when: /<h5>\s*([^<]*?)\s*<\/h5>(?:[\s\S]*?event-doors-showtime"[^>]*>(?:[^<]*?Show:)?\s*([^<]*)<)?/, place: /alt="([^"]*) Logo"/, venues: /mississippi studios/i }, // the club's own calendar (shared with Polaris Hall; its own cards kept) leads: 30 rows to Ticketmaster's 1 (2026-10-27)
       alias: /mississippi studios/i,
@@ -259,7 +258,7 @@
       cssVar: '--v-polaris',
       color: '#86ea8e',
       url: 'https://polarishall.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.polarishall.com&sz=128',
+      icon: 'marks/venues/polarishall.com.png',
       tm: { id: 'Z7r9jZadc-', match: 'polaris hall', fallbackUrl: 'https://polarishall.com/', secondary: true },
       feed: { kind: 'cards', url: 'https://polarishall.com/', item: /<div class="events__grid-event/, title: /(?=[\s\S]*?<a\s+class="event__action"\s+href="([^"]*)")[\s\S]*?<h2 class="event__title">([^<]*)</, when: /event__date">([^<]*)<(?:[\s\S]*?event__time--show">[\s\S]*?event__time-value">([^<]*)<)?/ }, // the hall's own grid leads: 60 rows to Ticketmaster's 1 (2026-10-27)
       alias: /polaris hall/i,
@@ -272,7 +271,7 @@
       cssVar: '--v-albertarose',
       color: '#ab86ea',
       url: 'https://albertarosetheatre.com/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=albertarosetheatre.com&sz=128',
+      icon: 'marks/venues/albertarosetheatre.com.png',
       tm: { id: 'KovZpa4spe', match: 'alberta rose', fallbackUrl: 'https://albertarosetheatre.com/calendar/', secondary: true },
       feed: { kind: 'cards', url: 'https://albertarosetheatre.com/calendar/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /singleEventDate[^>]*>\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/ }, // the theatre's own calendar leads (42 shows, listed twice on the page — the build folds them): Ticketmaster has 2; the www host's certificate names only the apex (2026-10-27)
       alias: /alberta rose/i,
@@ -284,7 +283,7 @@
       cssVar: '--v-siren',
       color: '#ea86c8',
       url: 'https://www.sirentheater.com/sirentheatershows.html',
-      icon: 'https://www.google.com/s2/favicons?domain=www.sirentheater.com&sz=128',
+      icon: 'marks/venues/sirentheater.com.png',
       alias: /siren theat(?:er|re)/i,
     },
     'The Hangar at Oaks Park': { // the hall at Oaks Amusement Park — the derby bouts are sold on the same Bold Type list as Merc Tickets (2026-10-19)
@@ -294,7 +293,7 @@
       cssVar: '--v-hangar',
       color: '#86d4ea',
       url: 'https://www.oakspark.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.oakspark.com&sz=128',
+      icon: 'marks/venues/oakspark.com.png',
       alias: /hangar at oaks|oaks amusement park/i,
     },
     'McMenamins Edgefield': {
@@ -305,7 +304,7 @@
       cssVar: '--v-edgefield',
       color: '#eac886',
       url: 'https://www.mcmenamins.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mcmenamins.com&sz=128',
+      icon: 'marks/venues/mcmenamins.com.png',
       tm: { id: 'KovZpZA1vFlA', match: 'edgefield', fallbackUrl: 'https://www.mcmenamins.com/', exclude: /parking/i, secondary: true },
       feed: { kind: 'cards', url: 'https://www.mcmenamins.com/edgefield/things-to-do/music-events', item: /tm-panel-card event detailed movie/, title: /tm-panel-titlebg">\s*<a href="([^"]*)"[^>]*>\s*<h3 class="uk-panel-title">([^<]*)</, when: /tm-card-content[^>]*>\s*<a[^>]*>\s*<h3 class="uk-panel-title">([^<]*)<\/h3>[\s\S]*?uk-panel-time[^>]*>(?:[^<]*?,\s*)?([^<]*)</, place: /tm-card-title[^>]*>at <span>([^<]*)</, venues: /^(?!all locations)/i, drop: /\btours?\b|specials|passport day|veterans day|friendsgiving|pairings/i }, // McMenamins' own listing for the property (pub and winery music, Blackberry Hall, the amphitheater in season) leads; the daily tours and company promotions dropped; Ticketmaster has the summer concerts (2026-10-27)
       alias: /edgefield/i,
@@ -318,7 +317,6 @@
       cssVar: '--v-ilani',
       color: '#86eae6',
       url: 'https://ilaniresort.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.ilaniresort.com&sz=128',
       tm: { id: 'KovZ917Ah8z', match: 'ilani', fallbackUrl: 'https://ilaniresort.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://ilaniresort.com/events-and-promotions/schedule-of-events/?venue=cowlitz-ballroom&type=all_items&promotion_type=all_items', item: /class="col-12 col-md-4 my-3 event /, title: /<a href="([^"]*)">\s*<div class="container pt-1[^>]*>\s*<div class="col-12 pb-1">\s*<p class="calendar-tile-title">\s*<span[^>]*>([^<]*)</, when: /sh4 fw-bold">\s*([^<]*?)\s*<[\s\S]*?<span class="text-royal-blue">([^<]*?)\s*at<\/span>/, place: /text-orange pt-1">\s*([^<]*?)\s*</ }, // the resort's own schedule filtered to the Cowlitz Ballroom (the unfiltered page shows this week only), behind Ticketmaster (2026-10-27)
       alias: /ilani/i,
@@ -331,7 +329,7 @@
       cssVar: '--v-hillsborostadium',
       color: '#ea86d0',
       url: 'https://www.hillsboro-oregon.gov/our-city/departments/parks-recreation',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hillsboro-oregon.gov&sz=128',
+      icon: 'marks/venues/hillsboro-oregon.gov.png',
       tm: { id: 'KovZpZAaIAIA', match: 'hillsboro stadium', fallbackUrl: 'https://www.hillsboro-oregon.gov/our-city/departments/parks-recreation', exclude: /parking/i },
       alias: /hillsboro stadium/i,
     },
@@ -343,7 +341,7 @@
       cssVar: '--v-hops',
       color: '#b3ea86',
       url: 'https://www.milb.com/hillsboro/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.milb.com&sz=128',
+      icon: 'marks/venues/milb.com.png',
       alias: /hops ballpark|ron tonkin field|hillsboro ballpark/i,
     },
   };
