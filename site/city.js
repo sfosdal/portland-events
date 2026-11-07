@@ -168,7 +168,6 @@
       cssVar: '--v-roseland',
       color: '#8a86ea',
       url: 'https://roselandpdx.com/events/',
-      icon: 'marks/venues/roselandpdx.com.png',
       tm: { id: 'KovZpap9re', match: 'roseland', fallbackUrl: 'https://roselandpdx.com/events/' },
       feed: { kind: 'cards', secondary: true, url: 'https://roselandpdx.com/events/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /singleEventDate[^>]*>\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/, place: /class="[^"]*venueLink"[^>]*>([^<]*)</, venues: /roseland/i }, // the theater's own listing (Rockhouse theme; the show clock, not the doors), behind Ticketmaster (2026-10-27)
       alias: /roseland/i,
@@ -232,7 +231,6 @@
       cssVar: '--v-hawthorne',
       color: '#86b7ea',
       url: 'https://hawthornetheatre.com/events/',
-      icon: 'marks/venues/hawthornetheatre.com.png',
       tm: { id: 'KovZpZAkn7IA', match: 'hawthorne theatre', fallbackUrl: 'https://hawthornetheatre.com/events/', secondary: true },
       feed: { kind: 'cards', url: 'https://hawthornetheatre.com/events/', item: /class\s*=\s*"col-12 eventWrapper rhpSingleEvent/, title: /<a id\s*=\s*"eventTitle" class="url" href="([^"]*)"[^>]*>\s*<h2[^>]*>\s*([\s\S]*?)\s*<\/h2>/, when: /singleEventDate[^>]*>\s*([^<]*?)\s*<(?:[\s\S]*?<span[^>]*rhp-event__time-text--list[^>]*>\s*(?:[^<]*?(?=Show\s*:))?(Show\s*:\s*[^<]*|[^<]*))?/, place: /class="[^"]*venueLink"[^>]*>([^<]*)</, venues: /hawthorne/i }, // the theatre's own listing (Theatre + Lounge) leads: 50 rows to Ticketmaster's 20 (2026-10-27)
       alias: /hawthorne theat/i,
