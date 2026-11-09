@@ -2820,6 +2820,150 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "DAX – The Anger Management Tour",
+   "date": "2026-11-08",
+   "time": "",
+   "url": "https://wonderballroom.com/event/dax-the-anger-management-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "SOUVENIRS – Celebrating the Songs of John Prine",
+   "date": "2026-11-08",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/souvenirs-celebrating-the-songs-of-john-prine-4/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Hangar at Oaks Park",
+   "title": "Rose City Juniors G1: Killer Bees v Bad Apples G2: Bleeding Hearts v Undead Avengers",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "url": "https://www.rollerderbytickets.com/events/176067008/rose-city-juniors-g1-killer-bees-v-bad-apples-g2-bleeding-hearts-v-undead-avengers",
+   "type": "sports"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "movie"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "La Traviata",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-11-08",
+   "time": "16:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "movie"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "SOUVENIRS – Celebrating the Songs of John Prine",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/souvenirs-celebrating-the-songs-of-john-prine-4/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Lewi Longmire",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279202-lewi-longmire",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Teddy Swims",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://www.rosequarter.com/calendar-events/teddy-swims-nov-8-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "movie"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 2)",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://www.etix.com/ticket/p/38873954/roger-clyne-the-peacemakers-hell-to-breakfast-tour-night-2-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "DAX – The Anger Management Tour",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/dax-the-anger-management-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Strawberry Fuzz",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/strawberry-fuzz-2/hawthorne-lounge/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Pedro the Lion (Night 2)",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/81027746",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Derek Hough Dance for the Holidays",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.portland5.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Syd: Beard Tour",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.etix.com/ticket/p/81998178/sydbeard-tour-portland-roseland-theater",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Syd - Early Entry VIP Upgrade",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.vipnation.com/tour_date/syd-portland-or-11-08-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "The Tallest Man on Earth",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
   }
  ]
 }
