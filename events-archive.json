@@ -2964,6 +2964,46 @@
    "time": "20:00:00",
    "url": "https://www.revolutionhall.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Psychedelics and the Reimagining of Aging",
+   "date": "2026-11-09",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/psychedelics-and-the-reimagining-of-aging/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Psychedelics and the Reimagining of Aging",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/psychedelics-and-the-reimagining-of-aging/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Emily Scott Robinson",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/56662102/emily-scott-robinson-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "James Ivy",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/73058347",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Aterciopelados",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
