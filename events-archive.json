@@ -3004,6 +3004,99 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Henry Diltz – Behind The Lens",
+   "date": "2026-11-10",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/henry-diltz-behind-the-lens/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Friends & Family Night",
+   "date": "2026-11-10",
+   "time": "17:00",
+   "url": "https://www.mcmenamins.com/events/276722-friends-family-night",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Henry Diltz – Behind The Lens",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/henry-diltz-behind-the-lens/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Foy Vance w/ Bonnie Bishop",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Beck: Ride Lonesome Tour",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "url": "https://www.portland5.com/event/beck-ride-lonesome-tour",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "The Black Angels",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/276344-the-black-angels/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Armand Hammer",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/70357231/sold-outarmand-hammer-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Craig Finn & The Band of Forgiveness",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/81091663",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Portland Trail Blazers vs. Oklahoma City Thunder",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-oklahoma-city-portland-oregon-11-10-2026/event/0F0065049CC58E9C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Beck",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BECK&linkID=pcpa&shopperContext=&caller=&appCode=",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "An Evening With Band Of Horses",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.etix.com/ticket/p/74643459/an-evening-with-band-of-horses-portland-roseland-theater",
+   "type": "concert"
   }
  ]
 }
