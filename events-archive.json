@@ -3097,6 +3097,124 @@
    "time": "20:00:00",
    "url": "https://www.etix.com/ticket/p/74643459/an-evening-with-band-of-horses-portland-roseland-theater",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Lucy Bedroque",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "John McCutcheon",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/john-mccutcheon-4/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Portugal. The Man with the Oregon Symphony",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://www.portland5.com/event/portugal-man-oregon-symphony",
+   "type": "arts"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "John McCutcheon",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/john-mccutcheon-4/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Westfall's Winery Wednesday",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279203-westfalls-winery-wednesday",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Portland Trail Blazers vs. Oklahoma City Thunder",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-oklahoma-city-portland-oregon-11-11-2026/event/0F0065049CCB8EA4",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "KUNP 16",
+     "BlazerVision"
+    ]
+   }
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Portugal the Man",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Nekrogoblikon",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277142-nekrogoblikon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Lucy Bedroque",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Other Lives",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/31311165/other-lives-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Vansire",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/85298255",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Leah Bonnema - The Evolution of a People Pleaser (If That’s Okay with You)",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.merctickets.com/events/185577843/leah-bonnema-the-evolution-of-a-people-pleaser-if-thats-okay-with-you",
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Tank and The Bangas",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Squirrel Flower w/ Sour Widows",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
