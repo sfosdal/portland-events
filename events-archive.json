@@ -3215,6 +3215,94 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Allison Russell",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://wonderballroom.com/event/allison-russell-2/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Sonny Hess",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279204-sonny-hess",
+   "type": "concert"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Fred Armisen",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.portland5.com/newmark-theatre",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Allison Russell",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://www.crystalballroompdx.com/events/278314-allison-russell/",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Portugal the Man",
+   "date": "2026-11-12",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Allison Russell",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/allison-russell-2/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "2slimey",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/2slimey/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Goodnight, Texas",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/51369445/goodnighttexas-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Alex Cameron",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/59428735",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Penn And Teller",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Drive By Truckers w/ The Minus 5",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
   }
  ]
 }
