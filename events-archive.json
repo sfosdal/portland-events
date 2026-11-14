@@ -3303,6 +3303,134 @@
    "time": "20:00:00",
    "url": "https://www.revolutionhall.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "The Big Trans Comedy Show",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/the-big-trans-comedy-show/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Moonlight Princesses",
+   "date": "2026-11-13",
+   "time": "18:00:00",
+   "url": "http://roselandpdx.com/"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Static Dress",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://hawthornetheatre.com/event/static-dress/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Bottleneck Blues Band",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279205-bottleneck-blues-band",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.portland5.com/event/don-lemon-dl-hughley-dl-dl-anything-goes",
+   "type": "arts"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "The Doubleclicks",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.merctickets.com/events/185577585/sold-out-the-doubleclicks",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ARMISEN&linkID=pcpa&shopperContext=&caller=&appCode=",
+   "type": "arts"
+  },
+  {
+   "venue": "Hillsboro Stadium",
+   "title": "Portland State Vikings Football vs. Southern Utah Thunderbirds Football",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.hillsboro-oregon.gov/our-city/departments/parks-recreation",
+   "type": "sports"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Houndmouth",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277964-houndmouth/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "The Big Trans Comedy Show",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://albertarosetheatre.com/event/the-big-trans-comedy-show/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Drive By Truckers",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Strongboi w/ Salami Rose Joe Louis",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.wonderballroom.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Johnny Franco & His Real Brother Dom",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Karina Rykman - Late Checkout Tour 2026",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/68336235/karina-rykman-late-checkout-tour-2026-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Suzy Sheer with Patch +",
+   "date": "2026-11-13",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/suzy-sheer-with-patch-star-theater-tickets/15041103",
+   "type": "concert"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+   "date": "2026-11-13",
+   "time": "21:30:00",
+   "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ARMISEN&linkID=pcpa&shopperContext=&caller=&appCode=",
+   "type": "arts"
   }
  ]
 }
