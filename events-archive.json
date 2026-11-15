@@ -3431,6 +3431,166 @@
    "time": "21:30:00",
    "url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ARMISEN&linkID=pcpa&shopperContext=&caller=&appCode=",
    "type": "arts"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Earlybirds Club",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://wonderballroom.com/event/earlybirds-club-6/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Leapin’ Louie: The Upside Down Ocean",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/leapin-louie-the-upside-down-ocean/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Leapin’ Louie: The Upside Down Ocean",
+   "date": "2026-11-14",
+   "time": "13:00",
+   "url": "https://albertarosetheatre.com/event/leapin-louie-the-upside-down-ocean/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Earlybirds Club",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "url": "https://wonderballroom.com/event/earlybirds-club-6/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Leanna Firestone",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://hawthornetheatre.com/event/leanna-firestone-2/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Second Saturday Irish Night",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279206-second-saturday-irish-night",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "The Doubleclicks",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.merctickets.com/events/185496760/sold-out-the-doubleclicks",
+   "soldOut": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Swan Lake with Live Orchestra",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.portland5.com/event/swan-lake-live-orchestra",
+   "type": "arts"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Brett Goldstein: Sex, Death & Small Talk",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://portland5.evenue.net/events/BRETT",
+   "type": "arts"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "World Ballet Company: Swan Lake with Live Orchestra",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.portland5.com/newmark-theatre",
+   "type": "arts"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Rodrigo’s Concierto de Aranjuez | Autumn Magnolias",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "url": "https://www.portland5.com/event/rodrigos-concierto-de-aranjuez-autumn-magnolias",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Russian Circles",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277467-russian-circles/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Cero Viejo",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/cero-viejo/hawthorne-lounge/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "80s+90s New Wave/Alt Video Dance Attack",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/55289076",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "nimino: keep me awake tour",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://roselandpdx.com/event/nimino-keep-me-awake-tour/roseland-theater/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Drive By Truckers w/ The Delines",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Son Volt w/ Kelly Willis",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Nimino",
+   "date": "2026-11-14",
+   "time": "20:30:00",
+   "url": "http://roselandpdx.com/"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Margaret Glaspy - The I Am Both Tour",
+   "date": "2026-11-14",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/39120958/margaret-glaspy-the-i-am-both-tour-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Desert Dwellers with Entangled Mind, Mah Ze Tar",
+   "date": "2026-11-14",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/desert-dwellers-with-entangled-mindmah-star-theater-tickets/14229204",
+   "type": "concert"
   }
  ]
 }
