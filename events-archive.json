@@ -3591,6 +3591,158 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/desert-dwellers-with-entangled-mindmah-star-theater-tickets/14229204",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "SUECO",
+   "date": "2026-11-15",
+   "time": "",
+   "url": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "The Aero Space Presents: MTV Pole Jams – A Pole Tribute to the Music Video Era",
+   "date": "2026-11-15",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/the-aero-space-presents-mtv-pole-jams-a-pole-tribute-to-the-music-video-era/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Veterans Memorial Coliseum",
+   "title": "Rose Quarter Guitar Show",
+   "date": "2026-11-15",
+   "time": "10:00",
+   "url": "https://www.rosequarter.com/calendar-events/guitar-show-nov-15-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents The Mountain That Loved a Bird",
+   "date": "2026-11-15",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "The Aero Space Presents: MTV Pole Jams – A Pole Tribute to the Music Video Era",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://albertarosetheatre.com/event/the-aero-space-presents-mtv-pole-jams-a-pole-tribute-to-the-music-video-era/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Kingdom of Giants",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://hawthornetheatre.com/event/kingdom-of-giants/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "F Thacher Carter",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279207-f-thacher-carter",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Sold Out: Ron Funches",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.etix.com/ticket/p/46185869/sold-outron-funches-portland-revolution-hall",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Iron Chic with The Dumpies & Amusement",
+   "date": "2026-11-15",
+   "time": "19:15:00",
+   "url": "https://www.ticketweb.com/event/iron-chic-with-the-dumpies-star-theater-tickets/14275524",
+   "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "A Defiant Voice: Shostakovich’s Symphony No. 5",
+   "date": "2026-11-15",
+   "time": "19:30",
+   "url": "https://www.portland5.com/event/defiant-voice-shostakovichs-symphony-no-5",
+   "type": "arts"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "SUECO",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Hit the Lights",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.mississippistudios.com/calendar",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Stephen Day - The Self Titled Tour",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/84386206",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Holy Wave",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "Dwight Yoakam",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Bonobo",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Holy Wave (21 and Over)",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Ron Funches (Late Show)",
+   "date": "2026-11-15",
+   "time": "22:00",
+   "url": "https://www.etix.com/ticket/p/95442431/ron-funches-late-show-portland-revolution-hall",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Ron Funches",
+   "date": "2026-11-15",
+   "time": "22:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "arts"
   }
  ]
 }
