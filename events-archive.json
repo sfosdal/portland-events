@@ -3743,6 +3743,60 @@
    "time": "22:00:00",
    "url": "https://www.revolutionhall.com/",
    "type": "arts"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Jenny Tian",
+   "date": "2026-11-16",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/jenny-tian/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Jenny Tian",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/jenny-tian/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Turnover",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277458-turnover/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "An Evening with Fred Eaglesmith",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/49972274/an-evening-with-fred-eaglesmith-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Pretty Sick",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/91855822",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Devil Master with Pilau & Cryr",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/devil-master-with-pilau-star-theater-tickets/14302694",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:26.404Z",
+    "from": 32.42
+   }
   }
  ]
 }
