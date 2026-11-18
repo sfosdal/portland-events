@@ -3797,6 +3797,123 @@
     "checked": "2026-11-16T23:12:26.404Z",
     "from": 32.42
    }
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "*CANCELLED* The Residents – Eskimo Live! Tour",
+   "date": "2026-11-17",
+   "time": "",
+   "url": "https://wonderballroom.com/event/cancelled-the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "SUNDOWN 3 – A Salute to Gordon Lightfoot – A Benefit for The Jeremy Wilson Foundation",
+   "date": "2026-11-17",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/sundown-3-a-salute-to-gordon-lightfoot-a-benefit-for-the-jeremy-wilson-foundation/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders",
+   "date": "2026-11-17",
+   "time": "",
+   "url": "https://www.portland5.com/event/outsiders",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Rodrigo y Gabriela",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.crystalballroompdx.com/events/277359-rodrigo-y-gabriela/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "SUNDOWN 3 – A Salute to Gordon Lightfoot – A Benefit for The Jeremy Wilson Foundation",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/sundown-3-a-salute-to-gordon-lightfoot-a-benefit-for-the-jeremy-wilson-foundation/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "The 2026 Calvin and Mayho Tanabe Address: Robert Wachter, M.D.",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.portland5.com/event/2026-calvin-and-mayho-tanabe-address-robert-wachter-md",
+   "type": "arts"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "State Champs w/ Cartel",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-17",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "*CANCELLED* The Residents – Eskimo Live! Tour",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/cancelled-the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Christian Death",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/christian-death/hawthorne-lounge/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Bayonne - The ‘Filters’ Tour",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/80960269/sold-outbayonne-the-filterstour-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Olivia O’Brien Presents: The PIXIE Tour",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/55541535",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Jervis Campbell",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "CLARION",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/clarion-star-theater-tickets/14257604",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:38.196Z",
+    "from": 32.42
+   }
   }
  ]
 }
