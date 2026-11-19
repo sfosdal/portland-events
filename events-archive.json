@@ -3914,6 +3914,110 @@
     "checked": "2026-11-16T23:12:38.196Z",
     "from": 32.42
    }
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Eivør",
+   "date": "2026-11-18",
+   "time": "",
+   "url": "https://wonderballroom.com/event/eiv%c3%b8r/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Science On Tap – Save the Planet: Recycle! …or Not?",
+   "date": "2026-11-18",
+   "time": "",
+   "url": "https://albertarosetheatre.com/event/science-on-tap-save-the-planet-recycle-or-not/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Silverstein",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.crystalballroompdx.com/events/278093-silverstein/",
+   "type": "concert"
+  },
+  {
+   "venue": "Alberta Rose Theatre",
+   "title": "Science On Tap – Save the Planet: Recycle! …or Not?",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://albertarosetheatre.com/event/science-on-tap-save-the-planet-recycle-or-not/alberta-rose-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Galen Clark",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279208-galen-clark",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Dyke Country: An Evening of Stand Up Comedy",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.merctickets.com/events/187755954/dyke-country-an-evening-of-stand-up-comedy",
+   "type": "arts"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Agriculture w/ Uniform",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-18",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Eivør",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/eiv%c3%b8r/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Maddie Zahm – Everything All The Time Tour",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/maddie-zahm-everything-all-the-time-tour/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sold Out: Natural Child",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/75106036/sold-outnatural-child-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Whitmer Thomas",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/41356454",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Babehoven (21 and Over)",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
   }
  ]
 }
