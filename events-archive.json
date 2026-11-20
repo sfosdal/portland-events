@@ -4018,6 +4018,116 @@
    "time": "20:00:00",
    "url": "https://www.revolutionhall.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Jamila Woods: 10 Years of HEAVN",
+   "date": "2026-11-19",
+   "time": "",
+   "url": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Newmark Theatre",
+   "title": "Trinity Irish Dance Company",
+   "date": "2026-11-19",
+   "time": "",
+   "url": "https://www.portland5.com/event/trinity-irish-dance-company",
+   "type": "arts"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Northwest Elite Sports West Coast Classic",
+   "date": "2026-11-19",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/northwest-elite-sports-west-coast-classic-portland-oregon-11-19-2026/event/0F00654E97E456B1",
+   "type": "sports"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "The Old Yellers",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279209-the-old-yellers",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "Carson Olshansky",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://www.merctickets.com/events/187350122/carson-olshansky",
+   "type": "arts"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Thundercat",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277813-thundercat/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Jamila Woods: 10 Years of HEAVN",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "2Dead Boyz x The Underachievers",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/2dead-boyz-x-the-underachievers/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "The Cactus Blossoms",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/40638516/the-cactus-blossoms-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Mattress - 20 Years Of Mattress",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/91263217",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Waax (21 and Over)",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Hell with Death Parade, Hope & Failure, Gethen and DJ Dirty Wizard",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/hell-with-death-parade-hope-star-theater-tickets/14243954",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:25.411Z",
+    "from": 24.18
+   }
   }
  ]
 }
