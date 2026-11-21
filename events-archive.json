@@ -4128,6 +4128,86 @@
     "checked": "2026-11-16T23:13:25.411Z",
     "from": 24.18
    }
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Growing Pains",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Coastie",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279210-coastie",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "The Teacher Show: Comedy from the Classroom (Night 1)",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://www.etix.com/ticket/p/73273847",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "The Dose: A Psychedelic Comedy Show",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://www.merctickets.com/events/184457294/the-dose-a-psychedelic-comedy-show",
+   "type": "arts"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Grief Sucks: A One Man Show By KevOnStage",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.etix.com/ticket/p/89590950/kevonstage-portland-aladdin-theater",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Haley Johnsen",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wonder Ballroom",
+   "title": "Growing Pains",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "House of Heavy",
+   "date": "2026-11-20",
+   "time": "20:30",
+   "url": "https://hawthornetheatre.com/event/house-of-heavy-2/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Sallie Ford & the Sound Outside",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/54677666/sallie-ford-the-sound-outside-portland-mississippi-studios",
+   "type": "concert"
   }
  ]
 }
