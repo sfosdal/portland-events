@@ -4208,6 +4208,116 @@
    "time": "21:00",
    "url": "https://www.etix.com/ticket/p/54677666/sallie-ford-the-sound-outside-portland-mississippi-studios",
    "type": "concert"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Mahler’s Symphony No. 6",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://www.portland5.com/event/mahlers-symphony-no-6",
+   "type": "arts"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "The Hangar at Oaks Park",
+   "title": "Guns N Rollers vs. Rage City: 90's Night!",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://www.rollerderbytickets.com/events/176067425/guns-n-rollers-vs-rage-city-90-s-night",
+   "type": "sports"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Batwater Trio",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279211-batwater-trio",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.etix.com/ticket/p/65038002",
+   "type": "concert"
+  },
+  {
+   "venue": "Siren Theater",
+   "title": "The Dose: A Psychedelic Comedy Show",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.merctickets.com/events/184457332/the-dose-a-psychedelic-comedy-show",
+   "type": "arts"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Mahler???s Symphony No. 6",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "90’s Dance Flashback",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Fear Factory – Cybernetic Domination Tour 2026",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/fear-factory-cybernetic-domination-tour-2026/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Phoebe Robinson",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Bobby Short Shorts: An Evening of Grateful Dead Music",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://www.etix.com/ticket/p/86386129/bobby-short-shortsan-evening-of-grateful-dead-music-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "Twirl - Autumn Disco",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/twirl-autumn-disco-star-theater-tickets/15058453",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-20T19:47:59.018Z",
+    "from": 25.21
+   }
   }
  ]
 }
