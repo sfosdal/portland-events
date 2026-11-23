@@ -4318,6 +4318,100 @@
     "checked": "2026-11-20T19:47:59.018Z",
     "from": 25.21
    }
+  },
+  {
+   "venue": "The Hangar at Oaks Park",
+   "title": "Rose City Juniors G1: Skaters of Doom v Killer Bees G2: Rainbow Bites v Undead Avengers",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "url": "https://www.rollerderbytickets.com/events/176067620/rose-city-juniors-g1-skaters-of-doom-v-killer-bees-g2-rainbow-bites-v-undead-avengers",
+   "type": "sports"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-22",
+   "time": "13:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Arlene Schnitzer Concert Hall",
+   "title": "Oregon Symphony presents Mahler???s Symphony No 6",
+   "date": "2026-11-22",
+   "time": "14:00:00",
+   "url": "https://www.portland5.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Star Theater",
+   "title": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
+   "date": "2026-11-22",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/psycroptic-with-inferi-cognitive-star-theater-tickets/14269614",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:05.835Z",
+    "from": 27.27
+   }
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-22",
+   "time": "18:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.etix.com/ticket/p/36347493",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Lane Norberg",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279212-lane-norberg",
+   "type": "concert"
+  },
+  {
+   "venue": "Revolution Hall",
+   "title": "Eric Skye Trio Plays Miles Davis featuring Tye North and Michah Kassell",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.revolutionhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "1 Umbrella",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/1-umbrella/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "1 Umbrella – VIP Upgrade (Entry Ticket Not Included)",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://hawthornetheatre.com/event/1-umbrella-vip-upgrade-entry-ticket-not-included/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Jack Bensinger",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://www.mississippistudios.com/calendar",
+   "type": "concert"
   }
  ]
 }
