@@ -4396,6 +4396,46 @@
    "time": "20:00",
    "url": "https://www.mississippistudios.com/calendar",
    "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-23",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Crystal Ballroom",
+   "title": "Senses Fail",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Local Love Letter #30: Victory Over The Sun",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/50476902/local-love-letter-30victory-over-the-sun-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Babe Haven",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/59224066",
+   "type": "concert"
+  },
+  {
+   "venue": "Aladdin Theater",
+   "title": "Haley Heynderickx",
+   "date": "2026-11-23",
+   "time": "20:00:00",
+   "url": "https://www.aladdin-theater.com/",
+   "type": "concert"
   }
  ]
 }
