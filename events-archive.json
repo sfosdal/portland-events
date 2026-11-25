@@ -4436,6 +4436,54 @@
    "time": "20:00:00",
    "url": "https://www.aladdin-theater.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-24",
+   "time": "13:00:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Portland School III",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.etix.com/ticket/p/36916561",
+   "type": "concert"
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Alter Bridge - What Lies Within Tour",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.etix.com/ticket/p/55176920/alter-bridge-what-lies-within-tour-portland-roseland-theater",
+   "type": "concert"
+  },
+  {
+   "venue": "Hawthorne Theatre",
+   "title": "Boston Manor",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "url": "https://hawthornetheatre.com/event/boston-manor/hawthorne-theatre/portland-oregon/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "Chorale For A Cause",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "url": "https://www.etix.com/ticket/p/88154444/chorale-for-a-cause-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Keller Auditorium",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.portland5.com/keller-auditorium",
+   "type": "arts"
   }
  ]
 }
