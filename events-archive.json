@@ -4484,6 +4484,60 @@
    "time": "19:30:00",
    "url": "https://www.portland5.com/keller-auditorium",
    "type": "arts"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Tony Smiley",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279213-tony-smiley",
+   "type": "concert"
+  },
+  {
+   "venue": "Moda Center",
+   "title": "Portland Trail Blazers vs. San Antonio Spurs",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/portland-trail-blazers-vs-san-antonio-portland-oregon-11-25-2026/event/0F0065049CD48EB8",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN",
+     "KUNP 16",
+     "BlazerVision"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:43:14.073Z",
+    "from": 55.93
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Roseland Theater",
+   "title": "Saosin w/ Silent Planet",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "http://roselandpdx.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Mississippi Studios",
+   "title": "The Pynnacles + Jewelry Exchange",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/36469338/the-pynnacles-jewelry-exchange-portland-mississippi-studios",
+   "type": "concert"
+  },
+  {
+   "venue": "Polaris Hall",
+   "title": "Moved To Aladdin Theater: Emma Ruth Rundle - These Killing Times",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://www.etix.com/ticket/p/94434785",
+   "type": "concert"
   }
  ]
 }
