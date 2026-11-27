@@ -4538,6 +4538,30 @@
    "time": "20:00",
    "url": "https://www.etix.com/ticket/p/94434785",
    "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Thanksgiving",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "url": "https://www.mcmenamins.com/events/279160-thanksgiving",
+   "type": "concert"
+  },
+  {
+   "venue": "McMenamins Edgefield",
+   "title": "Robert Meade",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "url": "https://www.mcmenamins.com/events/279214-robert-meade",
+   "type": "concert"
+  },
+  {
+   "venue": "ilani",
+   "title": "The Grand Celebration",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "url": "https://ilaniresort.com/events-and-promotions/schedule-of-events/cowlitz-ballroom/the-grand-celebration-1126/",
+   "type": "concert"
   }
  ]
 }
